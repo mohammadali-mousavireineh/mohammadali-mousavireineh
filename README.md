@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Mohammad Ali Mousavireineh
 
-<!--
-**mohammadali-mousavireineh/mohammadali-mousavireineh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Researcher | Data Analyst | Python Developer
 
-Here are some ideas to get you started:
+I work on machine learning, IoT intrusion detection, data analysis, and reproducible research projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Machine Learning for IoT security
+- Feature engineering and classification
+- Python research pipelines
+- Data analysis and model evaluation
+
+## Featured Projects
+- IoT-Paper: Machine learning pipeline for IoT/Windows dataset classification
+- Optimized Feature Engineering for IoT Intrusion Detection
+
+## Skills
+Python, scikit-learn, LightGBM, pandas, NumPy, Data Analysis, Machine Learning, Git, GitHub
